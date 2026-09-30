@@ -17,10 +17,6 @@
 | **Support** | https://www.chatobd2.com/contact.html |
 
 ---
-
-## GitHub About / Description (paste — max ~350 characters)
-
-```
 AI-powered ELM327 OBD-II app: Expert AI chat, DTCs, live data, OEM menus on supported cars. Generic adapters OK (v1.5/v2.1 class)—no brand lock. Ad-free. Referral keeps Pro free. Docs only—not app source. Play · https://apps.apple.com/app/chatobd2 · https://www.chatobd2.com/ · https://www.chatobd2.com/llms.txt
 ```
 
